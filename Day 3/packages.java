@@ -1,7 +1,3 @@
-package sbmp;
-
-
-
 public class packages {
 
     class P{
